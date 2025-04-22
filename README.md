@@ -15,11 +15,10 @@ Olá! Me chamo Leonardo e atualmente estou cursando a graduação de Análise e 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Leonardo-369&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/Leonardo-369/dio-lab-open-source)
 
 ## Badges
-![Credly.com](https://www.credly.com/badges/9742b658-f46b-4bc1-af27-e31aadf2ae9b/public_url)
-![Credly.com](https://www.credly.com/badges/5ec34c64-53e5-4d24-9c24-83c7a63a5994/public_url)
-![Credly.com](https://www.credly.com/badges/1a84c06e-265c-46f5-beb3-e90f29cd0549/public_url)
-![Credly.com](https://www.credly.com/badges/800aadef-cf2a-4222-abed-39689e595883/public_url)
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="9742b658-f46b-4bc1-af27-e31aadf2ae9b" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+![Credly](https://www.credly.com/badges/9742b658-f46b-4bc1-af27-e31aadf2ae9b/public_url)
+![Credly](https://www.credly.com/badges/5ec34c64-53e5-4d24-9c24-83c7a63a5994/public_url)
+![Credly](https://www.credly.com/badges/1a84c06e-265c-46f5-beb3-e90f29cd0549/public_url)
+![Credly](https://www.credly.com/badges/800aadef-cf2a-4222-abed-39689e595883/public_url)
 
 
 
