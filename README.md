@@ -18,7 +18,7 @@ Olá! Me chamo Leonardo e atualmente estou cursando a graduação de Análise e 
 <a href="https://github.com/Leonardo-369/Leonardo-369/blob/main/introduction-to-cybersecurity.png">
   <img src="https://github.com/Leonardo-369/Leonardo-369/blob/main/introduction-to-cybersecurity.png?raw=true" alt="Cybersecurity Badge" width="120"/>
 </a>
-[![Introduction to Cybersecurity](<img src="https://github.com/Leonardo-369/Leonardo-369/blob/main/introduction-to-cybersecurity.png" alt="Introduction to Cybersecurity" width="100" />)](https://www.credly.com/badges/9742b658-f46b-4bc1-af27-e31aadf2ae9b)
+
 
 
 
