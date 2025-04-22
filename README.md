@@ -4,7 +4,11 @@ Olá! Sou Leonardo Albuquerque, estudante de Análise e Desenvolvimento de Siste
 
 Apaixonado por resolver problemas e otimizar processos, venho me especializando em temas como C#, Python e Ciência de Dados, através de cursos e projetos pessoais. Busco aplicar minha experiência com atendimento a clientes, comunicação eficiente e gestão de dados no desenvolvimento de soluções tecnológicas que façam a diferença no dia a dia das pessoas e das empresas.
 
-Atualmente, estou focado em desenvolver habilidades técnicas com ênfase em: Programação em C#, Programação em Python, Infraestrutura de TI, Lógica de programação e automação de tarefas.
+Atualmente, estou focado em desenvolver habilidades técnicas com ênfase em: 
+- Programação em C#
+- Programação em Python
+- Infraestrutura de TI
+- Lógica de programação e automação de tarefas.
 
 Além disso, possuo grande facilidade em comunicação e negociação, habilidades desenvolvidas ao longo de mais de 10 anos atuando em funções administrativas, incluindo liderança de equipes e participação ativa em reuniões e decisões estratégicas.
 
