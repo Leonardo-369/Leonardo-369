@@ -48,10 +48,16 @@ Além disso, possuo grande facilidade em comunicação e negociação, habilidad
 
 ## 📊 GitHub Stats
 
-<p align="center">
+<p align="left">
   <img 
     src="https://github-readme-stats.vercel.app/api?username=Leonardo-369&theme=transparent&bg_color=000000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFFFFF"
     alt="GitHub Stats"
+  />
+</p>
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leonardo-369&layout=compact&theme=transparent&bg_color=000000&title_color=E94D5F&text_color=FFFFFF&border_color=30A3DC"
+    alt="Top Languages"
   />
 </p>
 
