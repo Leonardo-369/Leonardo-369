@@ -23,9 +23,9 @@ Além disso, possuo grande facilidade em comunicação e negociação, habilidad
 ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
 
 ## Certificações
+- 📊 **Introduction to Data Science** – Cisco Networking Academy  
 - 🐍 **Python Essentials 1** – Cisco Networking Academy  
 - 🔐 **Introduction to Cybersecurity** – Cisco Networking Academy  
-- 📊 **Introduction to Data Science** – Cisco Networking Academy  
 - 💻 **Computer Hardware Basics** – Cisco Networking Academy
 
 ## Badges
