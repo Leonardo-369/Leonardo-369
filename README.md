@@ -15,7 +15,7 @@ Olá! Me chamo Leonardo e atualmente estou cursando a graduação de Análise e 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Leonardo-369&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/Leonardo-369/dio-lab-open-source)
 
 ## Badges
-[![Introduction to Cybersecurity](<img src="https://github.com/Leonardo-369/Leonardo-369/blob/main/introduction-to-cybersecurity.png" alt="Badge" width="100" />)](https://www.credly.com/badges/9742b658-f46b-4bc1-af27-e31aadf2ae9b)
+[![Introduction to Cybersecurity](<img src="https://github.com/Leonardo-369/Leonardo-369/blob/main/introduction-to-cybersecurity.png" alt="Introduction to Cybersecurity" width="100" />)](https://www.credly.com/badges/9742b658-f46b-4bc1-af27-e31aadf2ae9b)
 
 
 
