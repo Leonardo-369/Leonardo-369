@@ -36,7 +36,6 @@ Olá! Me chamo Leonardo e atualmente estou cursando a graduação de Análise e 
   <a href="https://www.linkedin.com/in/leonardo-albuquerque-11738053/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-<p align="left">
   <a href="https://github.com/Leonardo-369">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
