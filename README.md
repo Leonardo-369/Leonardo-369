@@ -19,6 +19,7 @@ Olá! Me chamo Leonardo e atualmente estou cursando a graduação de Análise e 
 ![Credly.com](https://www.credly.com/badges/5ec34c64-53e5-4d24-9c24-83c7a63a5994/public_url)
 ![Credly.com](https://www.credly.com/badges/1a84c06e-265c-46f5-beb3-e90f29cd0549/public_url)
 ![Credly.com](https://www.credly.com/badges/800aadef-cf2a-4222-abed-39689e595883/public_url)
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="9742b658-f46b-4bc1-af27-e31aadf2ae9b" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
 
 
