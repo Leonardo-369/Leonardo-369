@@ -10,26 +10,18 @@ Programação em Python
 Infraestrutura de TI
 Lógica de programação e automação de tarefas
 
-
-🛠️ ## Habilidades & Certificações
-
-Python Essentials 1 – Cisco Networking Academy
-Introduction to Cybersecurity – Cisco Networking Academy
-Introduction to Data Science – IBM
-Computer Hardware Basics – Cisco Networking Academy
-
 Além disso, possuo grande facilidade em comunicação e negociação, habilidades desenvolvidas ao longo de mais de 10 anos atuando em funções administrativas, incluindo liderança de equipes e participação ativa em reuniões e decisões estratégicas.
+
 
 ## Habilidades
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
-## GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Leonardo-369&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF&hide_title=true)
-
-## Minhas Contribuições
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Leonardo-369&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/Leonardo-369/dio-lab-open-source)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Leonardo-369&repo=resumo-do-lab&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/Leonardo-369/resumo-do-lab)
+## Certificações
+Python Essentials 1 – Cisco Networking Academy
+Introduction to Cybersecurity – Cisco Networking Academy
+Introduction to Data Science – Cisco Networking Academy
+Computer Hardware Basics – Cisco Networking Academy
 
 ## Badges
 <a href="https://github.com/Leonardo-369/Leonardo-369/blob/main/introduction-to-data-science.png">
@@ -44,6 +36,13 @@ Além disso, possuo grande facilidade em comunicação e negociação, habilidad
 <a href="https://github.com/Leonardo-369/Leonardo-369/blob/main/computer-hardware-basics.png">
   <img src="https://github.com/Leonardo-369/Leonardo-369/blob/main/computer-hardware-basics.png?raw=true" alt="Cybersecurity Badge" width="120"/>
 </a>
+
+## GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Leonardo-369&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF&hide_title=true)
+
+## Minhas Contribuições
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Leonardo-369&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/Leonardo-369/dio-lab-open-source)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Leonardo-369&repo=resumo-do-lab&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/Leonardo-369/resumo-do-lab)
 
 
 ## Conecte-se comigo
