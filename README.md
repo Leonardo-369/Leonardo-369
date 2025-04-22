@@ -46,8 +46,14 @@ Além disso, possuo grande facilidade em comunicação e negociação, habilidad
   <img src="https://github.com/Leonardo-369/Leonardo-369/blob/main/computer-hardware-basics.png?raw=true" alt="Cybersecurity Badge" width="120"/>
 </a>
 
-## GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Leonardo-369&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF&hide_title=true)
+## 📊 GitHub Stats
+
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=Leonardo-369&theme=transparent&bg_color=000000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFFFFF"
+    alt="GitHub Stats"
+  />
+</p>
 
 ## Minhas Contribuições
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Leonardo-369&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/Leonardo-369/dio-lab-open-source)
