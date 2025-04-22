@@ -1,8 +1,24 @@
 # Leonardo Albuquerque | Leonardo-369
 
-Olá! Me chamo Leonardo e atualmente estou cursando a graduação de Análise e Desenvolvimento de Sistemas no SENAC São Paulo, além de cursos extras para agregar conhecimento.
+Olá! Sou Leonardo Albuquerque, estudante de Análise e Desenvolvimento de Sistemas pelo SENAC, com uma trajetória sólida em administração e atendimento, atualmente em transição para a área de Tecnologia da Informação.
+
+Apaixonado por resolver problemas e otimizar processos, venho me especializando em temas como C#, Python e Ciência de Dados, através de cursos e projetos pessoais. Busco aplicar minha experiência com atendimento a clientes, comunicação eficiente e gestão de dados no desenvolvimento de soluções tecnológicas que façam a diferença no dia a dia das pessoas e das empresas.
+
+Atualmente, estou focado em desenvolver habilidades técnicas com ênfase em:
+Programação em C#
+Programação em Python
+Infraestrutura de TI
+Lógica de programação e automação de tarefas
 
 
+🛠️ ## Habilidades & Certificações
+
+Python Essentials 1 – Cisco Networking Academy
+Introduction to Cybersecurity – Cisco Networking Academy
+Introduction to Data Science – IBM
+Computer Hardware Basics – Cisco Networking Academy
+
+Além disso, possuo grande facilidade em comunicação e negociação, habilidades desenvolvidas ao longo de mais de 10 anos atuando em funções administrativas, incluindo liderança de equipes e participação ativa em reuniões e decisões estratégicas.
 
 ## Habilidades
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
@@ -28,8 +44,6 @@ Olá! Me chamo Leonardo e atualmente estou cursando a graduação de Análise e 
 <a href="https://github.com/Leonardo-369/Leonardo-369/blob/main/computer-hardware-basics.png">
   <img src="https://github.com/Leonardo-369/Leonardo-369/blob/main/computer-hardware-basics.png?raw=true" alt="Cybersecurity Badge" width="120"/>
 </a>
-
-
 
 
 ## Conecte-se comigo
