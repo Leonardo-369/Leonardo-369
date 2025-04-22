@@ -21,7 +21,9 @@ Olá! Me chamo Leonardo e atualmente estou cursando a graduação de Análise e 
 <a href="https://github.com/Leonardo-369/Leonardo-369/blob/main/introduction-to-cybersecurity.png">
   <img src="https://github.com/Leonardo-369/Leonardo-369/blob/main/introduction-to-cybersecurity.png?raw=true" alt="Cybersecurity Badge" width="120"/>
 </a>
-
+<a href="https://github.com/Leonardo-369/Leonardo-369/blob/main/computer-hardware-basics.png">
+  <img src="https://github.com/Leonardo-369/Leonardo-369/blob/main/computer-hardware-basics.png?raw=true" alt="Cybersecurity Badge" width="120"/>
+</a>
 
 
 
