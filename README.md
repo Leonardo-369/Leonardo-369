@@ -1,6 +1,6 @@
 # Leonardo Albuquerque | Leonardo-369
 
-Olá! Me chamo Leonardo e atualmente estou cursando a graduação de Análise e Desenvolvimento de Sistemas no SENAC São Paulo, além de cursos extras para agregar certificações ao meu currículo.
+Olá! Me chamo Leonardo e atualmente estou cursando a graduação de Análise e Desenvolvimento de Sistemas no SENAC São Paulo, além de cursos extras para agregar conhecimento.
 
 
 
