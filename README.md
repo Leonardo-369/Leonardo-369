@@ -53,12 +53,8 @@ Além disso, possuo grande facilidade em comunicação e negociação, habilidad
     src="https://github-readme-stats.vercel.app/api?username=Leonardo-369&theme=transparent&bg_color=000000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFFFFF"
     alt="GitHub Stats"
   />
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leonardo-369&layout=compact&theme=transparent&bg_color=000000&title_color=E94D5F&text_color=FFFFFF&border_color=30A3DC"
-    alt="Top Languages"
-  />
 </p>
-
+   
 ## Minhas Contribuições
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Leonardo-369&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/Leonardo-369/dio-lab-open-source)
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Leonardo-369&repo=resumo-do-lab&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/Leonardo-369/resumo-do-lab)
