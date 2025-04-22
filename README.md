@@ -14,6 +14,9 @@ Olá! Me chamo Leonardo e atualmente estou cursando a graduação de Análise e 
 ## Minhas Contribuições
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Leonardo-369&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/Leonardo-369/dio-lab-open-source)
 
+#### Badges e Certificados
+
+
 
 
 ## Conecte-se comigo
