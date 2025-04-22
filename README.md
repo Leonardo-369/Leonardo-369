@@ -15,6 +15,9 @@ Olá! Me chamo Leonardo e atualmente estou cursando a graduação de Análise e 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Leonardo-369&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/Leonardo-369/dio-lab-open-source)
 
 ## Badges
+<a href="https://github.com/Leonardo-369/Leonardo-369/blob/main/introduction-to-data-science.png">
+  <img src="https://github.com/Leonardo-369/Leonardo-369/blob/main/introduction-to-data-science.png?raw=true" alt="Cybersecurity Badge" width="120"/>
+</a>
 <a href="https://github.com/Leonardo-369/Leonardo-369/blob/main/python-essentials-1.1.png">
   <img src="https://github.com/Leonardo-369/Leonardo-369/blob/main/python-essentials-1.1.png?raw=true" alt="Cybersecurity Badge" width="120"/>
 </a>
